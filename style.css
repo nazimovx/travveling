@@ -114,6 +114,69 @@
 .mobayn { 
     margin-left: 30%; 
     margin-top: 20vh;
+} 
+.d { 
+    margin-top: 25vh;
+}
+.d h1 { 
+    font-size: 7vh; 
+    text-align: center;
+} 
+.seto { 
+    width: 80%; 
+    height: 70vh; 
+    margin-left: 10%; 
+    display: flex; 
+    justify-content: space-between; 
+    
+    
+    margin-top: 5vh;  
+    
+} 
+.seto .setto { 
+    width: 30%; 
+    height: 100%; 
+    
+    border-radius: 5vh; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    border: 1px solid gray;
+}  
+.setto img { 
+    width: 83%; 
+    height: 60%;
+}
+.setto p { 
+    margin-top: 2vh; 
+    font-size: 4vh; 
+    margin-bottom: 3vh;
+} 
+.ff { 
+    width: 80%; 
+    display: flex; 
+    justify-content: space-between;
+} 
+.ff p { 
+    color: gray; 
+    font-size: 2vh; 
+    margin-top: 3vh;
+} 
+
+.ff span { 
+    color: black;
+} 
+.kabud { 
+    width: 10vh; 
+    height: 5vh; 
+    color: white;  
+    display: flex; 
+    justify-content: center;  
+    align-items: center; 
+    margin-top: 4vh;
+    border-radius: 3vh;
+    font-size: 2vh;
+    background-color: #177BA5; 
 }
 
 
