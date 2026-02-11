@@ -156,7 +156,8 @@
     width: 80%; 
     display: flex; 
     justify-content: space-between;
-} 
+
+}   
 .ff p { 
     color: gray; 
     font-size: 2vh; 
